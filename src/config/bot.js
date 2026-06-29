@@ -159,15 +159,15 @@ export const botConfig = {
   economy: {
     currency: {
       // Currency display name.
-      name: "coins",
+      name: "Velora Coin",
       // Plural display name.
-      namePlural: "coins",
+      namePlural: "Velora Coins",
       // Currency symbol shown in balances.
-      symbol: "$",
+      symbol: "♥",
     },
 
     // Starting balance for new users.
-    startingBalance: 0,
+    startingBalance: 100,
 
     // Maximum bank amount before upgrades (if upgrades are used).
     baseBankCapacity: 100000,
